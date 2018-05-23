@@ -5,49 +5,57 @@
             "abbreviation":"NUL",
             "type":"Control characters",
             "name":"Null",
+            "caret_notation": "^@",
             "escape_sequence":"\\0"
         },
         "1":{
             "dec":"1",
             "abbreviation":"SOH",
             "type":"Control characters",
-            "name":"Start of Heading"
+            "name":"Start of Heading",
+            "caret_notation": "^A",
         },
         "2":{
             "dec":"2",
             "abbreviation":"STX",
             "type":"Control characters",
-            "name":"Start of Text"
+            "name":"Start of Text",
+            "caret_notation": "^B",
         },
         "3":{
             "dec":"3",
             "abbreviation":"ETX",
             "type":"Control characters",
-            "name":"End of Text"
+            "name":"End of Text",
+            "caret_notation": "^C",
         },
         "4":{
             "dec":"4",
             "abbreviation":"EOT",
             "type":"Control characters",
-            "name":"End of Transmission"
+            "name":"End of Transmission",
+            "caret_notation": "^D",
         },
         "5":{
             "dec":"5",
             "abbreviation":"ENQ",
             "type":"Control characters",
-            "name":"Enquiry"
+            "name":"Enquiry",
+            "caret_notation": "^E",
         },
         "6":{
             "dec":"6",
             "abbreviation":"ACK",
             "type":"Control characters",
-            "name":"Acknowledgement"
+            "name":"Acknowledgement",
+            "caret_notation": "^F",
         },
         "7":{
             "dec":"7",
             "abbreviation":"BEL",
             "type":"Control characters",
             "name":"Bell",
+            "caret_notation": "^G",
             "escape_sequence":"\\a"
         },
         "8":{
@@ -55,6 +63,7 @@
             "abbreviation":"BS",
             "type":"Control characters",
             "name":"Backspace",
+            "caret_notation": "^H",
             "escape_sequence":"\\b"
         },
         "9":{
@@ -62,6 +71,7 @@
             "abbreviation":"HT",
             "type":"Control characters",
             "name":"Horizontal Tab",
+            "caret_notation": "^I",
             "escape_sequence":"\\t"
         },
         "10":{
@@ -69,6 +79,7 @@
             "abbreviation":"LF",
             "type":"Control characters",
             "name":"Line Feed",
+            "caret_notation": "^J",
             "escape_sequence":"\\n"
         },
         "11":{
@@ -76,6 +87,7 @@
             "abbreviation":"VT",
             "type":"Control characters",
             "name":"Vertical Tab",
+            "caret_notation": "^K",
             "escape_sequence":"\\v"
         },
         "12":{
@@ -83,6 +95,7 @@
             "abbreviation":"FF",
             "type":"Control characters",
             "name":"Form Feed",
+            "caret_notation": "^L",
             "escape_sequence":"\\f"
         },
         "13":{
@@ -90,116 +103,135 @@
             "abbreviation":"CR",
             "type":"Control characters",
             "name":"Carriage Return",
+            "caret_notation": "^M",
             "escape_sequence":"\\r"
         },
         "14":{
             "dec":"14",
             "abbreviation":"SO",
             "type":"Control characters",
-            "name":"Shift Out"
+            "name":"Shift Out",
+            "caret_notation": "^N",
         },
         "15":{
             "dec":"15",
             "abbreviation":"SI",
             "type":"Control characters",
-            "name":"Shift In"
+            "name":"Shift In",
+            "caret_notation": "^O",
         },
         "16":{
             "dec":"16",
             "abbreviation":"DLE",
             "type":"Control characters",
-            "name":"Data Link Escape"
+            "name":"Data Link Escape",
+            "caret_notation": "^P",
         },
         "17":{
             "dec":"17",
             "abbreviation":"DC1",
             "type":"Control characters",
-            "name":"Device Control 1"
+            "name":"Device Control 1",
+            "caret_notation": "^Q",
         },
         "18":{
             "dec":"18",
             "abbreviation":"DC2",
             "type":"Control characters",
-            "name":"Device Control 2"
+            "name":"Device Control 2",
+            "caret_notation": "^R",
         },
         "19":{
             "dec":"19",
             "abbreviation":"DC3",
             "type":"Control characters",
-            "name":"Device Control 3"
+            "name":"Device Control 3",
+            "caret_notation": "^S",
         },
         "20":{
             "dec":"20",
             "abbreviation":"DC4",
             "type":"Control characters",
-            "name":"Device Control 4"
+            "name":"Device Control 4",
+            "caret_notation": "^T",
         },
         "21":{
             "dec":"21",
             "abbreviation":"NAK",
             "type":"Control characters",
-            "name":"Negative Acknowledgement"
+            "name":"Negative Acknowledgement",
+            "caret_notation": "^U",
         },
         "22":{
             "dec":"22",
             "abbreviation":"SYN",
             "type":"Control characters",
-            "name":"Synchronous Idle"
+            "name":"Synchronous Idle",
+            "caret_notation": "^V",
         },
         "23":{
             "dec":"23",
             "abbreviation":"ETB",
             "type":"Control characters",
-            "name":"End of Transmission Block"
+            "name":"End of Transmission Block",
+            "caret_notation": "^W",
         },
         "24":{
             "dec":"24",
             "abbreviation":"CAN",
             "type":"Control characters",
-            "name":"Cancel"
+            "name":"Cancel",
+            "caret_notation": "^X",
         },
         "25":{
             "dec":"25",
             "abbreviation":"EM",
             "type":"Control characters",
-            "name":"End of Medium"
+            "name":"End of Medium",
+            "caret_notation": "^Y",
         },
         "26":{
             "dec":"26",
             "abbreviation":"SUB",
             "type":"Control characters",
-            "name":"Substitute"
+            "name":"Substitute",
+            "caret_notation": "^Z",
         },
         "27":{
             "dec":"27",
             "abbreviation":"ESC",
             "type":"Control characters",
             "name":"Escape",
+            "caret_notation": "^[",
             "escape_sequence":"\\e"
         },
         "28":{
             "dec":"28",
             "abbreviation":"FS",
             "type":"Control characters",
-            "name":"File Separator"
+            "name":"File Separator",
+            "caret_notation": "^\\",
         },
         "29":{
             "dec":"29",
             "abbreviation":"GS",
             "type":"Control characters",
-            "name":"Group Separator"
+            "name":"Group Separator",
+            "caret_notation": "^]",
         },
         "30":{
             "dec":"30",
             "abbreviation":"RS",
             "type":"Control characters",
-            "name":"Record Separator"
+            "name":"Record Separator",
+            "caret_notation": "^^",
         },
         "31":{
             "dec":"31",
             "abbreviation":"US",
             "type":"Control characters",
-            "name":"Unit Separator"
+            "name":"Unit Separator",
+            "caret_notation": "^_",
         },
         "32":{
             "dec":"32",
@@ -681,7 +713,8 @@
             "dec":"127",
             "abbreviation":"DEL",
             "type":"Control characters",
-            "name":"Delete"
+            "name":"Delete",
+            "caret_notation": "^?",
         }
     }
 ]
