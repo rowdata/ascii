@@ -4,7 +4,7 @@
         "abbreviation": "NUL",
         "type": "Control characters",
         "name": "Null",
-        "escape_sequences": "\0"
+        "escape_sequences": "\\0"
     },
     "1": {
         "dec": "1",
@@ -47,49 +47,49 @@
         "abbreviation": "BEL",
         "type": "Control characters",
         "name": "Bell",
-        "escape_sequences": "\a"
+        "escape_sequences": "\\a"
     },
     "8": {
         "dec": "8",
         "abbreviation": "BS",
         "type": "Control characters",
         "name": "Backspace",
-        "escape_sequences": "\b"
+        "escape_sequences": "\\b"
     },
     "9": {
         "dec": "9",
         "abbreviation": "HT",
         "type": "Control characters",
         "name": "Horizontal Tab",
-        "escape_sequences": "\t"
+        "escape_sequences": "\\t"
     },
     "10": {
         "dec": "10",
         "abbreviation": "LF",
         "type": "Control characters",
         "name": "Line Feed",
-        "escape_sequences": "\n"
+        "escape_sequences": "\\n"
     },
     "11": {
         "dec": "11",
         "abbreviation": "VT",
         "type": "Control characters",
         "name": "Vertical Tab",
-        "escape_sequences": "\v"
+        "escape_sequences": "\\v"
     },
     "12": {
         "dec": "12",
         "abbreviation": "FF",
         "type": "Control characters",
         "name": "Form Feed",
-        "escape_sequences": "\f"
+        "escape_sequences": "\\f"
     },
     "13": {
         "dec": "13",
         "abbreviation": "CR",
         "type": "Control characters",
         "name": "Carriage Return",
-        "escape_sequences": "\r"
+        "escape_sequences": "\\r"
     },
     "14": {
         "dec": "14",
@@ -174,7 +174,7 @@
         "abbreviation": "ESC",
         "type": "Control characters",
         "name": "Escape",
-        "escape_sequences": "\e"
+        "escape_sequences": "\\e"
     },
     "28": {
         "dec": "28",
