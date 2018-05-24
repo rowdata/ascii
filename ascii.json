@@ -1,7 +1,7 @@
 [
     {
         "0":{
-            "dec":"0",
+            "decimal":"0",
             "abbreviation":"NUL",
             "type":"Control",
             "name":"Null",
@@ -9,49 +9,49 @@
             "escape_sequence":"\\0"
         },
         "1":{
-            "dec":"1",
+            "decimal":"1",
             "abbreviation":"SOH",
             "type":"Control",
             "name":"Start of Heading",
             "caret_notation": "^A"
         },
         "2":{
-            "dec":"2",
+            "decimal":"2",
             "abbreviation":"STX",
             "type":"Control",
             "name":"Start of Text",
             "caret_notation": "^B"
         },
         "3":{
-            "dec":"3",
+            "decimal":"3",
             "abbreviation":"ETX",
             "type":"Control",
             "name":"End of Text",
             "caret_notation": "^C"
         },
         "4":{
-            "dec":"4",
+            "decimal":"4",
             "abbreviation":"EOT",
             "type":"Control",
             "name":"End of Transmission",
             "caret_notation": "^D"
         },
         "5":{
-            "dec":"5",
+            "decimal":"5",
             "abbreviation":"ENQ",
             "type":"Control",
             "name":"Enquiry",
             "caret_notation": "^E"
         },
         "6":{
-            "dec":"6",
+            "decimal":"6",
             "abbreviation":"ACK",
             "type":"Control",
             "name":"Acknowledgement",
             "caret_notation": "^F"
         },
         "7":{
-            "dec":"7",
+            "decimal":"7",
             "abbreviation":"BEL",
             "type":"Control",
             "name":"Bell",
@@ -59,7 +59,7 @@
             "escape_sequence":"\\a"
         },
         "8":{
-            "dec":"8",
+            "decimal":"8",
             "abbreviation":"BS",
             "type":"Control",
             "name":"Backspace",
@@ -67,7 +67,7 @@
             "escape_sequence":"\\b"
         },
         "9":{
-            "dec":"9",
+            "decimal":"9",
             "abbreviation":"HT",
             "type":"Control",
             "name":"Horizontal Tab",
@@ -75,7 +75,7 @@
             "escape_sequence":"\\t"
         },
         "10":{
-            "dec":"10",
+            "decimal":"10",
             "abbreviation":"LF",
             "type":"Control",
             "name":"Line Feed",
@@ -83,7 +83,7 @@
             "escape_sequence":"\\n"
         },
         "11":{
-            "dec":"11",
+            "decimal":"11",
             "abbreviation":"VT",
             "type":"Control",
             "name":"Vertical Tab",
@@ -91,7 +91,7 @@
             "escape_sequence":"\\v"
         },
         "12":{
-            "dec":"12",
+            "decimal":"12",
             "abbreviation":"FF",
             "type":"Control",
             "name":"Form Feed",
@@ -99,7 +99,7 @@
             "escape_sequence":"\\f"
         },
         "13":{
-            "dec":"13",
+            "decimal":"13",
             "abbreviation":"CR",
             "type":"Control",
             "name":"Carriage Return",
@@ -107,98 +107,98 @@
             "escape_sequence":"\\r"
         },
         "14":{
-            "dec":"14",
+            "decimal":"14",
             "abbreviation":"SO",
             "type":"Control",
             "name":"Shift Out",
             "caret_notation": "^N"
         },
         "15":{
-            "dec":"15",
+            "decimal":"15",
             "abbreviation":"SI",
             "type":"Control",
             "name":"Shift In",
             "caret_notation": "^O"
         },
         "16":{
-            "dec":"16",
+            "decimal":"16",
             "abbreviation":"DLE",
             "type":"Control",
             "name":"Data Link Escape",
             "caret_notation": "^P"
         },
         "17":{
-            "dec":"17",
+            "decimal":"17",
             "abbreviation":"DC1",
             "type":"Control",
             "name":"Device Control 1",
             "caret_notation": "^Q"
         },
         "18":{
-            "dec":"18",
+            "decimal":"18",
             "abbreviation":"DC2",
             "type":"Control",
             "name":"Device Control 2",
             "caret_notation": "^R"
         },
         "19":{
-            "dec":"19",
+            "decimal":"19",
             "abbreviation":"DC3",
             "type":"Control",
             "name":"Device Control 3",
             "caret_notation": "^S"
         },
         "20":{
-            "dec":"20",
+            "decimal":"20",
             "abbreviation":"DC4",
             "type":"Control",
             "name":"Device Control 4",
             "caret_notation": "^T"
         },
         "21":{
-            "dec":"21",
+            "decimal":"21",
             "abbreviation":"NAK",
             "type":"Control",
             "name":"Negative Acknowledgement",
             "caret_notation": "^U"
         },
         "22":{
-            "dec":"22",
+            "decimal":"22",
             "abbreviation":"SYN",
             "type":"Control",
             "name":"Synchronous Idle",
             "caret_notation": "^V"
         },
         "23":{
-            "dec":"23",
+            "decimal":"23",
             "abbreviation":"ETB",
             "type":"Control",
             "name":"End of Transmission Block",
             "caret_notation": "^W"
         },
         "24":{
-            "dec":"24",
+            "decimal":"24",
             "abbreviation":"CAN",
             "type":"Control",
             "name":"Cancel",
             "caret_notation": "^X"
         },
         "25":{
-            "dec":"25",
+            "decimal":"25",
             "abbreviation":"EM",
             "type":"Control",
             "name":"End of Medium",
             "caret_notation": "^Y"
         },
         "26":{
-            "dec":"26",
+            "decimal":"26",
             "abbreviation":"SUB",
             "type":"Control",
             "name":"Substitute",
             "caret_notation": "^Z"
         },
         "27":{
-            "dec":"27",
+            "decimal":"27",
             "abbreviation":"ESC",
             "type":"Control",
             "name":"Escape",
@@ -206,511 +206,511 @@
             "escape_sequence":"\\e"
         },
         "28":{
-            "dec":"28",
+            "decimal":"28",
             "abbreviation":"FS",
             "type":"Control",
             "name":"File Separator",
             "caret_notation": "^\\"
         },
         "29":{
-            "dec":"29",
+            "decimal":"29",
             "abbreviation":"GS",
             "type":"Control",
             "name":"Group Separator",
             "caret_notation": "^]"
         },
         "30":{
-            "dec":"30",
+            "decimal":"30",
             "abbreviation":"RS",
             "type":"Control",
             "name":"Record Separator",
             "caret_notation": "^^"
         },
         "31":{
-            "dec":"31",
+            "decimal":"31",
             "abbreviation":"US",
             "type":"Control",
             "name":"Unit Separator",
             "caret_notation": "^_"
         },
         "32":{
-            "dec":"32",
+            "decimal":"32",
             "abbreviation":"SP",
             "type":"Control",
             "name":"space"
         },
         "33":{
-            "dec":"33",
+            "decimal":"33",
             "glyph":"!",
             "type":"Printable"
         },
         "34":{
-            "dec":"34",
+            "decimal":"34",
             "glyph":"\"",
             "type":"Printable"
         },
         "35":{
-            "dec":"35",
+            "decimal":"35",
             "glyph":"#",
             "type":"Printable"
         },
         "36":{
-            "dec":"36",
+            "decimal":"36",
             "glyph":"$",
             "type":"Printable"
         },
         "37":{
-            "dec":"37",
+            "decimal":"37",
             "glyph":"%",
             "type":"Printable"
         },
         "38":{
-            "dec":"38",
+            "decimal":"38",
             "glyph":"&",
             "type":"Printable"
         },
         "39":{
-            "dec":"39",
+            "decimal":"39",
             "glyph":"'",
             "type":"Printable"
         },
         "40":{
-            "dec":"40",
+            "decimal":"40",
             "glyph":"(",
             "type":"Printable"
         },
         "41":{
-            "dec":"41",
+            "decimal":"41",
             "glyph":")",
             "type":"Printable"
         },
         "42":{
-            "dec":"42",
+            "decimal":"42",
             "glyph":"*",
             "type":"Printable"
         },
         "43":{
-            "dec":"43",
+            "decimal":"43",
             "glyph":"+",
             "type":"Printable"
         },
         "44":{
-            "dec":"44",
+            "decimal":"44",
             "glyph":",",
             "type":"Printable"
         },
         "45":{
-            "dec":"45",
+            "decimal":"45",
             "glyph":"-",
             "type":"Printable"
         },
         "46":{
-            "dec":"46",
+            "decimal":"46",
             "glyph":".",
             "type":"Printable"
         },
         "47":{
-            "dec":"47",
+            "decimal":"47",
             "glyph":"/",
             "type":"Printable"
         },
         "48":{
-            "dec":"48",
+            "decimal":"48",
             "glyph":"0",
             "type":"Printable"
         },
         "49":{
-            "dec":"49",
+            "decimal":"49",
             "glyph":"1",
             "type":"Printable"
         },
         "50":{
-            "dec":"50",
+            "decimal":"50",
             "glyph":"2",
             "type":"Printable"
         },
         "51":{
-            "dec":"51",
+            "decimal":"51",
             "glyph":"3",
             "type":"Printable"
         },
         "52":{
-            "dec":"52",
+            "decimal":"52",
             "glyph":"4",
             "type":"Printable"
         },
         "53":{
-            "dec":"53",
+            "decimal":"53",
             "glyph":"5",
             "type":"Printable"
         },
         "54":{
-            "dec":"54",
+            "decimal":"54",
             "glyph":"6",
             "type":"Printable"
         },
         "55":{
-            "dec":"55",
+            "decimal":"55",
             "glyph":"7",
             "type":"Printable"
         },
         "56":{
-            "dec":"56",
+            "decimal":"56",
             "glyph":"8",
             "type":"Printable"
         },
         "57":{
-            "dec":"57",
+            "decimal":"57",
             "glyph":"9",
             "type":"Printable"
         },
         "58":{
-            "dec":"58",
+            "decimal":"58",
             "glyph":":",
             "type":"Printable"
         },
         "59":{
-            "dec":"59",
+            "decimal":"59",
             "glyph":";",
             "type":"Printable"
         },
         "60":{
-            "dec":"60",
+            "decimal":"60",
             "glyph":"<",
             "type":"Printable"
         },
         "61":{
-            "dec":"61",
+            "decimal":"61",
             "glyph":"=",
             "type":"Printable"
         },
         "62":{
-            "dec":"62",
+            "decimal":"62",
             "glyph":">",
             "type":"Printable"
         },
         "63":{
-            "dec":"63",
+            "decimal":"63",
             "glyph":"?",
             "type":"Printable"
         },
         "64":{
-            "dec":"64",
+            "decimal":"64",
             "glyph":"@",
             "type":"Printable"
         },
         "65":{
-            "dec":"65",
+            "decimal":"65",
             "glyph":"A",
             "type":"Printable"
         },
         "66":{
-            "dec":"66",
+            "decimal":"66",
             "glyph":"B",
             "type":"Printable"
         },
         "67":{
-            "dec":"67",
+            "decimal":"67",
             "glyph":"C",
             "type":"Printable"
         },
         "68":{
-            "dec":"68",
+            "decimal":"68",
             "glyph":"D",
             "type":"Printable"
         },
         "69":{
-            "dec":"69",
+            "decimal":"69",
             "glyph":"E",
             "type":"Printable"
         },
         "70":{
-            "dec":"70",
+            "decimal":"70",
             "glyph":"F",
             "type":"Printable"
         },
         "71":{
-            "dec":"71",
+            "decimal":"71",
             "glyph":"G",
             "type":"Printable"
         },
         "72":{
-            "dec":"72",
+            "decimal":"72",
             "glyph":"H",
             "type":"Printable"
         },
         "73":{
-            "dec":"73",
+            "decimal":"73",
             "glyph":"I",
             "type":"Printable"
         },
         "74":{
-            "dec":"74",
+            "decimal":"74",
             "glyph":"G",
             "type":"Printable"
         },
         "75":{
-            "dec":"75",
+            "decimal":"75",
             "glyph":"K",
             "type":"Printable"
         },
         "76":{
-            "dec":"76",
+            "decimal":"76",
             "glyph":"L",
             "type":"Printable"
         },
         "77":{
-            "dec":"77",
+            "decimal":"77",
             "glyph":"M",
             "type":"Printable"
         },
         "78":{
-            "dec":"78",
+            "decimal":"78",
             "glyph":"N",
             "type":"Printable"
         },
         "79":{
-            "dec":"79",
+            "decimal":"79",
             "glyph":"O",
             "type":"Printable"
         },
         "80":{
-            "dec":"80",
+            "decimal":"80",
             "glyph":"P",
             "type":"Printable"
         },
         "81":{
-            "dec":"81",
+            "decimal":"81",
             "glyph":"Q",
             "type":"Printable"
         },
         "82":{
-            "dec":"82",
+            "decimal":"82",
             "glyph":"R",
             "type":"Printable"
         },
         "83":{
-            "dec":"83",
+            "decimal":"83",
             "glyph":"S",
             "type":"Printable"
         },
         "84":{
-            "dec":"84",
+            "decimal":"84",
             "glyph":"T",
             "type":"Printable"
         },
         "85":{
-            "dec":"85",
+            "decimal":"85",
             "glyph":"U",
             "type":"Printable"
         },
         "86":{
-            "dec":"86",
+            "decimal":"86",
             "glyph":"V",
             "type":"Printable"
         },
         "87":{
-            "dec":"87",
+            "decimal":"87",
             "glyph":"W",
             "type":"Printable"
         },
         "88":{
-            "dec":"88",
+            "decimal":"88",
             "glyph":"X",
             "type":"Printable"
         },
         "89":{
-            "dec":"89",
+            "decimal":"89",
             "glyph":"Y",
             "type":"Printable"
         },
         "90":{
-            "dec":"90",
+            "decimal":"90",
             "glyph":"Z",
             "type":"Printable"
         },
         "91":{
-            "dec":"91",
+            "decimal":"91",
             "glyph":"[",
             "type":"Printable"
         },
         "92":{
-            "dec":"92",
+            "decimal":"92",
             "glyph":"\\",
             "type":"Printable"
         },
         "93":{
-            "dec":"93",
+            "decimal":"93",
             "glyph":"]",
             "type":"Printable"
         },
         "94":{
-            "dec":"94",
+            "decimal":"94",
             "glyph":"^",
             "type":"Printable"
         },
         "95":{
-            "dec":"95",
+            "decimal":"95",
             "glyph":"_",
             "type":"Printable"
         },
         "96":{
-            "dec":"96",
+            "decimal":"96",
             "glyph":"`",
             "type":"Printable"
         },
         "97":{
-            "dec":"97",
+            "decimal":"97",
             "glyph":"a",
             "type":"Printable"
         },
         "98":{
-            "dec":"98",
+            "decimal":"98",
             "glyph":"b",
             "type":"Printable"
         },
         "99":{
-            "dec":"99",
+            "decimal":"99",
             "glyph":"c",
             "type":"Printable"
         },
         "100":{
-            "dec":"100",
+            "decimal":"100",
             "glyph":"d",
             "type":"Printable"
         },
         "101":{
-            "dec":"101",
+            "decimal":"101",
             "glyph":"e",
             "type":"Printable"
         },
         "102":{
-            "dec":"102",
+            "decimal":"102",
             "glyph":"f",
             "type":"Printable"
         },
         "103":{
-            "dec":"103",
+            "decimal":"103",
             "glyph":"g",
             "type":"Printable"
         },
         "104":{
-            "dec":"104",
+            "decimal":"104",
             "glyph":"h",
             "type":"Printable"
         },
         "105":{
-            "dec":"105",
+            "decimal":"105",
             "glyph":"i",
             "type":"Printable"
         },
         "106":{
-            "dec":"106",
+            "decimal":"106",
             "glyph":"j",
             "type":"Printable"
         },
         "107":{
-            "dec":"107",
+            "decimal":"107",
             "glyph":"k",
             "type":"Printable"
         },
         "108":{
-            "dec":"108",
+            "decimal":"108",
             "glyph":"l",
             "type":"Printable"
         },
         "109":{
-            "dec":"109",
+            "decimal":"109",
             "glyph":"m",
             "type":"Printable"
         },
         "110":{
-            "dec":"110",
+            "decimal":"110",
             "glyph":"n",
             "type":"Printable"
         },
         "111":{
-            "dec":"111",
+            "decimal":"111",
             "glyph":"o",
             "type":"Printable"
         },
         "112":{
-            "dec":"112",
+            "decimal":"112",
             "glyph":"p",
             "type":"Printable"
         },
         "113":{
-            "dec":"113",
+            "decimal":"113",
             "glyph":"q",
             "type":"Printable"
         },
         "114":{
-            "dec":"114",
+            "decimal":"114",
             "glyph":"r",
             "type":"Printable"
         },
         "115":{
-            "dec":"115",
+            "decimal":"115",
             "glyph":"s",
             "type":"Printable"
         },
         "116":{
-            "dec":"116",
+            "decimal":"116",
             "glyph":"t",
             "type":"Printable"
         },
         "117":{
-            "dec":"117",
+            "decimal":"117",
             "glyph":"u",
             "type":"Printable"
         },
         "118":{
-            "dec":"118",
+            "decimal":"118",
             "glyph":"v",
             "type":"Printable"
         },
         "119":{
-            "dec":"119",
+            "decimal":"119",
             "glyph":"w",
             "type":"Printable"
         },
         "120":{
-            "dec":"120",
+            "decimal":"120",
             "glyph":"x",
             "type":"Printable"
         },
         "121":{
-            "dec":"121",
+            "decimal":"121",
             "glyph":"y",
             "type":"Printable"
         },
         "122":{
-            "dec":"122",
+            "decimal":"122",
             "glyph":"z",
             "type":"Printable"
         },
         "123":{
-            "dec":"123",
+            "decimal":"123",
             "glyph":"{",
             "type":"Printable"
         },
         "124":{
-            "dec":"124",
+            "decimal":"124",
             "glyph":"|",
             "type":"Printable"
         },
         "125":{
-            "dec":"125",
+            "decimal":"125",
             "glyph":"}",
             "type":"Printable"
         },
         "126":{
-            "dec":"126",
+            "decimal":"126",
             "glyph":"~",
             "type":"Printable"
         },
         "127":{
-            "dec":"127",
+            "decimal":"127",
             "abbreviation":"DEL",
             "type":"Control",
             "name":"Delete",
