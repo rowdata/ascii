@@ -3,7 +3,7 @@
         "0":{
             "dec":"0",
             "abbreviation":"NUL",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Null",
             "caret_notation": "^@",
             "escape_sequence":"\\0"
@@ -11,49 +11,49 @@
         "1":{
             "dec":"1",
             "abbreviation":"SOH",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Start of Heading",
             "caret_notation": "^A"
         },
         "2":{
             "dec":"2",
             "abbreviation":"STX",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Start of Text",
             "caret_notation": "^B"
         },
         "3":{
             "dec":"3",
             "abbreviation":"ETX",
-            "type":"Control characters",
+            "type":"Control",
             "name":"End of Text",
             "caret_notation": "^C"
         },
         "4":{
             "dec":"4",
             "abbreviation":"EOT",
-            "type":"Control characters",
+            "type":"Control",
             "name":"End of Transmission",
             "caret_notation": "^D"
         },
         "5":{
             "dec":"5",
             "abbreviation":"ENQ",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Enquiry",
             "caret_notation": "^E"
         },
         "6":{
             "dec":"6",
             "abbreviation":"ACK",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Acknowledgement",
             "caret_notation": "^F"
         },
         "7":{
             "dec":"7",
             "abbreviation":"BEL",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Bell",
             "caret_notation": "^G",
             "escape_sequence":"\\a"
@@ -61,7 +61,7 @@
         "8":{
             "dec":"8",
             "abbreviation":"BS",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Backspace",
             "caret_notation": "^H",
             "escape_sequence":"\\b"
@@ -69,7 +69,7 @@
         "9":{
             "dec":"9",
             "abbreviation":"HT",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Horizontal Tab",
             "caret_notation": "^I",
             "escape_sequence":"\\t"
@@ -77,7 +77,7 @@
         "10":{
             "dec":"10",
             "abbreviation":"LF",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Line Feed",
             "caret_notation": "^J",
             "escape_sequence":"\\n"
@@ -85,7 +85,7 @@
         "11":{
             "dec":"11",
             "abbreviation":"VT",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Vertical Tab",
             "caret_notation": "^K",
             "escape_sequence":"\\v"
@@ -93,7 +93,7 @@
         "12":{
             "dec":"12",
             "abbreviation":"FF",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Form Feed",
             "caret_notation": "^L",
             "escape_sequence":"\\f"
@@ -101,7 +101,7 @@
         "13":{
             "dec":"13",
             "abbreviation":"CR",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Carriage Return",
             "caret_notation": "^M",
             "escape_sequence":"\\r"
@@ -109,98 +109,98 @@
         "14":{
             "dec":"14",
             "abbreviation":"SO",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Shift Out",
             "caret_notation": "^N"
         },
         "15":{
             "dec":"15",
             "abbreviation":"SI",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Shift In",
             "caret_notation": "^O"
         },
         "16":{
             "dec":"16",
             "abbreviation":"DLE",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Data Link Escape",
             "caret_notation": "^P"
         },
         "17":{
             "dec":"17",
             "abbreviation":"DC1",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Device Control 1",
             "caret_notation": "^Q"
         },
         "18":{
             "dec":"18",
             "abbreviation":"DC2",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Device Control 2",
             "caret_notation": "^R"
         },
         "19":{
             "dec":"19",
             "abbreviation":"DC3",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Device Control 3",
             "caret_notation": "^S"
         },
         "20":{
             "dec":"20",
             "abbreviation":"DC4",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Device Control 4",
             "caret_notation": "^T"
         },
         "21":{
             "dec":"21",
             "abbreviation":"NAK",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Negative Acknowledgement",
             "caret_notation": "^U"
         },
         "22":{
             "dec":"22",
             "abbreviation":"SYN",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Synchronous Idle",
             "caret_notation": "^V"
         },
         "23":{
             "dec":"23",
             "abbreviation":"ETB",
-            "type":"Control characters",
+            "type":"Control",
             "name":"End of Transmission Block",
             "caret_notation": "^W"
         },
         "24":{
             "dec":"24",
             "abbreviation":"CAN",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Cancel",
             "caret_notation": "^X"
         },
         "25":{
             "dec":"25",
             "abbreviation":"EM",
-            "type":"Control characters",
+            "type":"Control",
             "name":"End of Medium",
             "caret_notation": "^Y"
         },
         "26":{
             "dec":"26",
             "abbreviation":"SUB",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Substitute",
             "caret_notation": "^Z"
         },
         "27":{
             "dec":"27",
             "abbreviation":"ESC",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Escape",
             "caret_notation": "^[",
             "escape_sequence":"\\e"
@@ -208,511 +208,511 @@
         "28":{
             "dec":"28",
             "abbreviation":"FS",
-            "type":"Control characters",
+            "type":"Control",
             "name":"File Separator",
             "caret_notation": "^\\"
         },
         "29":{
             "dec":"29",
             "abbreviation":"GS",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Group Separator",
             "caret_notation": "^]"
         },
         "30":{
             "dec":"30",
             "abbreviation":"RS",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Record Separator",
             "caret_notation": "^^"
         },
         "31":{
             "dec":"31",
             "abbreviation":"US",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Unit Separator",
             "caret_notation": "^_"
         },
         "32":{
             "dec":"32",
             "abbreviation":"SP",
-            "type":"Control characters",
+            "type":"Control",
             "name":"space"
         },
         "33":{
             "dec":"33",
             "glyph":"!",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "34":{
             "dec":"34",
             "glyph":"\"",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "35":{
             "dec":"35",
             "glyph":"#",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "36":{
             "dec":"36",
             "glyph":"$",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "37":{
             "dec":"37",
             "glyph":"%",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "38":{
             "dec":"38",
             "glyph":"&",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "39":{
             "dec":"39",
             "glyph":"'",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "40":{
             "dec":"40",
             "glyph":"(",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "41":{
             "dec":"41",
             "glyph":")",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "42":{
             "dec":"42",
             "glyph":"*",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "43":{
             "dec":"43",
             "glyph":"+",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "44":{
             "dec":"44",
             "glyph":",",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "45":{
             "dec":"45",
             "glyph":"-",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "46":{
             "dec":"46",
             "glyph":".",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "47":{
             "dec":"47",
             "glyph":"/",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "48":{
             "dec":"48",
             "glyph":"0",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "49":{
             "dec":"49",
             "glyph":"1",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "50":{
             "dec":"50",
             "glyph":"2",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "51":{
             "dec":"51",
             "glyph":"3",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "52":{
             "dec":"52",
             "glyph":"4",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "53":{
             "dec":"53",
             "glyph":"5",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "54":{
             "dec":"54",
             "glyph":"6",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "55":{
             "dec":"55",
             "glyph":"7",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "56":{
             "dec":"56",
             "glyph":"8",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "57":{
             "dec":"57",
             "glyph":"9",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "58":{
             "dec":"58",
             "glyph":":",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "59":{
             "dec":"59",
             "glyph":";",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "60":{
             "dec":"60",
             "glyph":"<",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "61":{
             "dec":"61",
             "glyph":"=",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "62":{
             "dec":"62",
             "glyph":">",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "63":{
             "dec":"63",
             "glyph":"?",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "64":{
             "dec":"64",
             "glyph":"@",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "65":{
             "dec":"65",
             "glyph":"A",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "66":{
             "dec":"66",
             "glyph":"B",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "67":{
             "dec":"67",
             "glyph":"C",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "68":{
             "dec":"68",
             "glyph":"D",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "69":{
             "dec":"69",
             "glyph":"E",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "70":{
             "dec":"70",
             "glyph":"F",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "71":{
             "dec":"71",
             "glyph":"G",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "72":{
             "dec":"72",
             "glyph":"H",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "73":{
             "dec":"73",
             "glyph":"I",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "74":{
             "dec":"74",
             "glyph":"G",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "75":{
             "dec":"75",
             "glyph":"K",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "76":{
             "dec":"76",
             "glyph":"L",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "77":{
             "dec":"77",
             "glyph":"M",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "78":{
             "dec":"78",
             "glyph":"N",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "79":{
             "dec":"79",
             "glyph":"O",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "80":{
             "dec":"80",
             "glyph":"P",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "81":{
             "dec":"81",
             "glyph":"Q",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "82":{
             "dec":"82",
             "glyph":"R",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "83":{
             "dec":"83",
             "glyph":"S",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "84":{
             "dec":"84",
             "glyph":"T",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "85":{
             "dec":"85",
             "glyph":"U",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "86":{
             "dec":"86",
             "glyph":"V",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "87":{
             "dec":"87",
             "glyph":"W",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "88":{
             "dec":"88",
             "glyph":"X",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "89":{
             "dec":"89",
             "glyph":"Y",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "90":{
             "dec":"90",
             "glyph":"Z",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "91":{
             "dec":"91",
             "glyph":"[",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "92":{
             "dec":"92",
             "glyph":"\\",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "93":{
             "dec":"93",
             "glyph":"]",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "94":{
             "dec":"94",
             "glyph":"^",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "95":{
             "dec":"95",
             "glyph":"_",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "96":{
             "dec":"96",
             "glyph":"`",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "97":{
             "dec":"97",
             "glyph":"a",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "98":{
             "dec":"98",
             "glyph":"b",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "99":{
             "dec":"99",
             "glyph":"c",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "100":{
             "dec":"100",
             "glyph":"d",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "101":{
             "dec":"101",
             "glyph":"e",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "102":{
             "dec":"102",
             "glyph":"f",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "103":{
             "dec":"103",
             "glyph":"g",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "104":{
             "dec":"104",
             "glyph":"h",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "105":{
             "dec":"105",
             "glyph":"i",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "106":{
             "dec":"106",
             "glyph":"j",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "107":{
             "dec":"107",
             "glyph":"k",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "108":{
             "dec":"108",
             "glyph":"l",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "109":{
             "dec":"109",
             "glyph":"m",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "110":{
             "dec":"110",
             "glyph":"n",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "111":{
             "dec":"111",
             "glyph":"o",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "112":{
             "dec":"112",
             "glyph":"p",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "113":{
             "dec":"113",
             "glyph":"q",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "114":{
             "dec":"114",
             "glyph":"r",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "115":{
             "dec":"115",
             "glyph":"s",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "116":{
             "dec":"116",
             "glyph":"t",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "117":{
             "dec":"117",
             "glyph":"u",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "118":{
             "dec":"118",
             "glyph":"v",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "119":{
             "dec":"119",
             "glyph":"w",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "120":{
             "dec":"120",
             "glyph":"x",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "121":{
             "dec":"121",
             "glyph":"y",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "122":{
             "dec":"122",
             "glyph":"z",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "123":{
             "dec":"123",
             "glyph":"{",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "124":{
             "dec":"124",
             "glyph":"|",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "125":{
             "dec":"125",
             "glyph":"}",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "126":{
             "dec":"126",
             "glyph":"~",
-            "type":"Printable characters"
+            "type":"Printable"
         },
         "127":{
             "dec":"127",
             "abbreviation":"DEL",
-            "type":"Control characters",
+            "type":"Control",
             "name":"Delete",
             "caret_notation": "^?"
         }
